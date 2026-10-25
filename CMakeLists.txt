@@ -7,4 +7,5 @@ include_directories(.)
 
 add_executable(Projet_ugo
         testing.c
-        testing.h)
+        testing.h
+        Main.c)
